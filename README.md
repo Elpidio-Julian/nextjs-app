@@ -1,0 +1,1 @@
+nextJS full stack app
